@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Apply Theme</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_remove">Remove</string>
+    <string name="menu_bye">Bye</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="sample_text">sample txt</string>
+    <string name="linearViewHorizontal">Linear Horizontal</string>
+    <string name="linearViewVertical">Linear Vertical</string>
+    <string name="gridView">Grid View</string>
+    <string name="staggeredViewHorizontal">Staggered Horizontal</string>
+    <string name="staggeredViewVertical">Staggered Vertical</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="place_order">Place order</string>
+    <string name="view_order">View my order</string>
+    <string name="call_waiter">Call waiter</string>
+</resources>

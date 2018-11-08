@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <item android:id="@+id/place_order"
+        android:title="@string/place_order"
+        />
+
+    <item android:id="@+id/view_order"
+        android:title="@string/view_order"
+        />
+
+    <item android:id="@+id/call_waiter"
+        android:title="@string/call_waiter"
+        />
+
+    <!--
+    <item android:id="@+id/add"
+    android:title="@string/menu_add"
+    />
+
+    <item android:id="@+id/remove"
+        android:title="@string/menu_remove"
+        />
+
+
+    <item android:id="@+id/bye"
+        android:title="@string/menu_bye"
+
+        />
+-->
+
+<!--
+    <item android:id="@+id/m_linearViewHorizontal"
+        android:title="@string/linearViewHorizontal"
+        />
+
+    <item android:id="@+id/m_linearViewVertical"
+        android:title="@string/linearViewVertical"
+        />
+
+    <item android:id="@+id/m_gridView"
+        android:title="@string/gridView"
+        />
+
+    <item android:id="@+id/m_StaggeredViewHorizontal"
+        android:title="@string/staggeredViewHorizontal"
+        />
+
+    <item android:id="@+id/m_staggeredVertical"
+        android:title="@string/staggeredViewVertical"
+        />
+
+    -->
+
+<!-- app:showAsAction="never" -->
+</menu>
